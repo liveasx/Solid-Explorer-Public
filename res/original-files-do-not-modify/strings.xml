@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    
-    
-    
     <!-- bottom toolbar -->
     <string name="New">New</string>
     <string name="Jump">Jump</string>
@@ -20,7 +17,6 @@
     <string name="New_cloud_connection">Cloud connection</string>
     
     <!-- "Actions" popup -->
-    
     <string name="Copy">Copy</string>
     <string name="Cut">Cut</string>
     <string name="Paste">Paste</string>
@@ -30,7 +26,6 @@
     <string name="Select">Select</string>
     
     <!-- "Jump" popup -->
-    
     <string name="Device">Device</string>
     <string name="Photos">Photos</string>
     <string name="Downloads">Downloads</string>
@@ -52,7 +47,7 @@
     <string name="Cloud_storage">Cloud storage</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">System root</string>
+    <string name="System_root">System root</string>
     <string name="SD_card">SD card</string>
     <string name="Internal_memory">Internal memory</string>
     <string name="USB_drive_x">USB drive %x</string>
@@ -79,8 +74,6 @@
     <string name="Close_all">Close all</string>
     <string name="In_background">In background</string>
     
-    
-    
     <!-- Context menu -->
     <string name="Open_with">Open with...</string>
     <string name="Open_in_bg">Open beside</string>
@@ -90,8 +83,7 @@
     <string name="Extract">Extract</string>
     <string name="Extract_to">Extract to</string>
     <string name="Archive">Archive</string>
-    <string name="Paste_to_x">Paste to \&quot;%\&quot;</string>
-    
+    <string name="Paste_to_x">Paste to \&quot;%\&quot;</string>    
     
     <!-- Dialogs -->
     <string name="OK">OK</string>
@@ -99,36 +91,36 @@
     <string name="Yes">Yes</string>
     <string name="No">No</string>
     
-	    <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">Enter the name</string>
+    <!-- New folder/file dialog -->
+    <string name="Enter_the_name">Enter the name</string>
 	    
-	    <!-- New connection Dialog -->
-	    <string name="Display_name">Display name</string>
-	    <string name="May_be_empty">May be empty</string>
-    	<string name="Remote_path">Remote path</string>
-    	<string name="Port">Port</string>
-    	<string name="User_name">User name</string>
-    	<string name="Password">Password</string>
-    	<string name="Repeat_the_password">Confirm password</string>
-    	<string name="Authentication_method">Authentication method</string>
-    	<string name="Server">Server</string>
-    	<string name="Connection_type">Connection type</string>
-    	<string name="Scan">Scan</string>
-    	<string name="Computer_name_or_IP_adress">Computer name or IP address</string>
-    	<string name="Looking_for_computers">Looking for computers</string>
-    	<string name="Share">SMB share</string>
+    <!-- New connection Dialog -->
+    <string name="Display_name">Display name</string>
+    <string name="May_be_empty">May be empty</string>
+    <string name="Remote_path">Remote path</string>
+    <string name="Port">Port</string>
+    <string name="User_name">User name</string>
+    <string name="Password">Password</string>
+    <string name="Repeat_the_password">Confirm password</string>
+    <string name="Authentication_method">Authentication method</string>
+    <string name="Server">Server</string>
+    <string name="Connection_type">Connection type</string>
+    <string name="Scan">Scan</string>
+    <string name="Computer_name_or_IP_adress">Computer name or IP address</string>
+    <string name="Looking_for_computers">Looking for computers</string>
+    <string name="Share">SMB share</string>
     	
-    		<!-- Auth methods -->
-    		<string name="Ask_for_password_each_time">Ask for a password each time</string>
-        	<string name="Store_encrypted_password">Store encrypted password</string>
-        	<string name="No_password_required">No password required</string>
-        	<string name="Anonymous">Anonymous</string>
-        	<string name="Log_in_as_a_guest">Log in as a guest</string>
-        	
-        	<!-- FTP types -->
-        	<string name="FTP_no_encryption">FTP (no encryption)</string>
-        	<string name="FTPS_implicit_encryption">FTPS (implicit encryption)</string>
-        	<string name="FTPES_explicit_encryption">FTPES (explicit encryption)</string>
+    <!-- Auth methods -->
+    <string name="Ask_for_password_each_time">Ask for a password each time</string>
+    <string name="Store_encrypted_password">Store encrypted password</string>
+    <string name="No_password_required">No password required</string>
+    <string name="Anonymous">Anonymous</string>
+    <string name="Log_in_as_a_guest">Log in as a guest</string>
+    
+    <!-- FTP types -->
+    <string name="FTP_no_encryption">FTP (no encryption)</string>
+    <string name="FTPS_implicit_encryption">FTPS (implicit encryption)</string>
+    <string name="FTPES_explicit_encryption">FTPES (explicit encryption)</string>
         
     <!-- Search activity -->	
     <string name="Manual_search">Manual search</string>
@@ -151,28 +143,28 @@
     <string name="Source">Source</string>
     <string name="Destination">Destination</string>
     
-    	<!-- Operation info -->
-    	<string name="Operation">Operation</string>
-    	<string name="From">From</string>
-    	<string name="To">To</string>
-    	<string name="Size">Size</string>
-    	<string name="Speed">Speed</string>
-    	<string name="ETA">ETA</string>
-    	<string name="NA">N/A</string>
-    	<string name="Current">Current</string>
+    <!-- Operation info -->
+    <string name="Operation">Operation</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Size">Size</string>
+    <string name="Speed">Speed</string>
+    <string name="ETA">ETA</string>
+    <string name="NA">N/A</string>
+    <string name="Current">Current</string>
     	
-    	<!-- Operation descriptions -->
-    	<string name="File_copy">File copy</string>
-    	<string name="File_move">File move</string>
-    	<string name="File_delete">File delete</string>
-    	<string name="Temporary_download">Temporary download</string>
-   	 	<string name="Creating_archive">Creating % archive</string>
-    	<string name="Extracting_archive">Extracting % archive</string>
-    	<string name="X_has_been_completed">% has been completed.</string>
-    	<string name="X_has_failed">% has failed.</string>
-    	<string name="Tap_to_show_details">Tap to show details</string>
-    	<string name="Pending_cancel_request">Pending cancel request</string>
-    	<string name="File_operation">File operation</string>
+    <!-- Operation descriptions -->
+    <string name="File_copy">File copy</string>
+    <string name="File_move">File move</string>
+    <string name="File_delete">File delete</string>
+    <string name="Temporary_download">Temporary download</string>
+    <string name="Creating_archive">Creating % archive</string>
+    <string name="Extracting_archive">Extracting % archive</string>
+    <string name="X_has_been_completed">% has been completed.</string>
+    <string name="X_has_failed">% has failed.</string>
+    <string name="Tap_to_show_details">Tap to show details</string>
+    <string name="Pending_cancel_request">Pending cancel request</string>
+    <string name="File_operation">File operation</string>
     
     <!-- Bookmark manager -->
     <string name="Bookmark_manager">Bookmark manager</string>
@@ -218,7 +210,6 @@
     <string name="Server_address">Server address</string>
     <string name="Start">Start</string>
     <string name="Stop">Stop</string>
-    
     
     <!-- Archive dialog -->
     <string name="Create_archive_dialog_title">Create archive</string>
@@ -297,164 +288,153 @@
     <string name="Flash">Flash</string>
     
     <!-- Dialogs again -->
-    	<!-- File exists dialog -->
-    	<!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
-    	<string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
-    	<string name="File_exists">File exists</string>
-    	<string name="Skip">Skip</string>
-    	<string name="Overwrite">Overwrite</string>
-    	<string name="Merge">Merge</string>
-    	<string name="Keep_both">Keep both</string>
-    	<string name="Remember_action">Remember this action</string>
-    	<string name="Keep_the_old_file">Keep the old file</string>
-    	<string name="The_new_file_will_have_its_name_changed">Changes the name of the new file</string>
-    	<string name="Replace_the_file_with_this">Replaces the existing file</string>
-    	<string name="Create_master_password">Create a master password</string>
-    	
-    	<string name="Choose_an_activity_to_open_the_file">Choose an activity to open the file</string>
-    	<string name="Always_use_this_application">Always use this application</string>
-    	<string name="Send_the_file_using">Send the file using</string>
-    	<string name="Progress">Progress</string>
-    	<string name="Minimize">Minimize</string>
-    	<string name="Pause">Pause</string>
-    	<string name="Resume">Resume</string>
-    	<string name="Dismiss">Dismiss</string>
-    	
-    	<string name="Abort_operation">Abort operation</string>
-    	<string name="There_is_already_an_operation_running">An operation is currently running. Please wait until it finishes.</string>
+    <!-- File exists dialog -->
+    <!-- <string name="This_file_already_exists">This file already exists. What do you want to do?</string>
+    <string name="This_folder_already_exists">This folder already exists. What do you want to do?</string> -->
+    <string name="File_exists">File exists</string>
+    <string name="Skip">Skip</string>
+    <string name="Overwrite">Overwrite</string>
+    <string name="Merge">Merge</string>
+    <string name="Keep_both">Keep both</string>
+    <string name="Remember_action">Remember this action</string>
+    <string name="Keep_the_old_file">Keep the old file</string>
+    <string name="The_new_file_will_have_its_name_changed">Changes the name of the new file</string>
+    <string name="Replace_the_file_with_this">Replaces the existing file</string>
+    <string name="Create_master_password">Create a master password</string>
+    <string name="Choose_an_activity_to_open_the_file">Choose an activity to open the file</string>
+    <string name="Always_use_this_application">Always use this application</string>
+    <string name="Send_the_file_using">Send the file using</string>
+    <string name="Progress">Progress</string>
+    <string name="Minimize">Minimize</string>
+    <string name="Pause">Pause</string>
+    <string name="Resume">Resume</string>
+    <string name="Dismiss">Dismiss</string>
+    <string name="Abort_operation">Abort operation</string>
+    <string name="There_is_already_an_operation_running">An operation is currently running. Please wait until it finishes.</string>
     
-    	<!-- Question dialogs -->
-    	<string name="Are_you_sure_you_want_to_clear_the_history">Are you sure you want to clear the history?</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Are you sure you want to clear the thumbnail cache?</string>
-    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Are you sure you want to delete temporary files?</string>
-    	<string name="It_is_time_for_sheduled_indexing">It is time for scheduled indexing. Would you like to perform an index now?</string>
-    	<string name="Folder_exists_descr">There is already a folder with the same name in the directory. What do you want to do?</string>
-    	<string name="File_exists_descr">There is already a file with the same name in the directory. What do you want to do?</string>
-    	<string name="Are_you_sure_you_want_to_delete">Are you sure you want to delete \&quot;%\&quot;?</string>
-    	<string name="Are_you_sure_to_abort_current_operation">Are you sure to abort the current operation?</string>
-    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Are you sure you want to delete all bookmarks?</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">Are you sure you want to delete bookmark \&quot;%\&quot; ?</string>
-    	<string name="Reindex_prompt">Performing an index. This can take several minutes. Proceed?</string>
-    	<string name="Clear_index_prompt">Are you sure you want to clear all index data? This operation can not be undone.</string>
-    	<string name="Are_you_sure_to_stop_indexing">Are you sure you want to stop indexing?</string>
-    	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Are you sure you want to clear file type associations?</string>
-    	<string name="Changes_have_been_made_to_the_file">Changes have been made to the &quot;%&quot;. Do you wish to save them?</string>
-    	<string name="Chown_confirm">Are you sure you want to change the ownership of this file?</string>
-    	<string name="Busybox_request">It looks like BusyBox is not installed on your device or its version is outdated. It is required to explore the root of your filesystem. Do you want to install it now?</string>
-    	
-    	
-    	<!-- Information dialogs -->
-    	<string name="SkyDrive_doesnt_support_x_files">SkyDrive does not support \&quot;%\&quot; files. Operation has been aborted.</string>
-    	<string name="Operation_not_supported">Operation not supported</string>
-    	<string name="You_have_to_provide_a_password">You must provide a password</string>
-    	<string name="Insufficient_space" formatted="false">There is not enough free space to complete the operation. Size: %, available: %.</string>
-    	<string name="Command_executed_successfully">Command executed successfully</string>
-    	<string name="Deleting_data">Deleting the data</string>
-    	<string name="Done">Done</string>
-    	<string name="Preparing_for_operation">Preparing for operation...</string>
-    	<string name="Connecting">Connecting</string>
-    	<string name="Connecting_to_x">Connecting to \&quot;%\&quot;</string>
-    	<string name="File_is_too_big">This file is too big. Only files up to 75kB are supported for editing. Bigger files will be supported soon.</string>
-    	<string name="Operation_history_has_been_cleared">Operation history has been cleared</string>
-    	<string name="Encrypted_archive">Encrypted archive</string>
-    	<string name="Enter_the_password">Enter the password</string>
-    	<string name="Confirmation">Confirmation</string>
-    	<string name="Input_request">Input request</string>
-    	<string name="Message">Message</string>
-    	<string name="Warning">Warning!</string>
-    	<string name="You_did_not_specify_a_password">You didn\'t specify a password</string>
-    	<string name="Reading_archive">Reading archive</string>
-    	<string name="Reading_archive_x">Reading archive \&quot;%\&quot;</string>
-    	<string name="Storage_not_available">Storage not available</string>
-    	<string name="The_password_given_is_incorrect">The given password is incorrect</string>
-    	<string name="You_did_not_specify_a_server_name">You did not specify a server name</string>
-    	<string name="You_did_not_specify_a_computer_name">You did not specify a computer name</string>
-    	<string name="You_did_not_specify_a_port_number">You did not specify a port number</string>
-    	<string name="You_did_not_specify_user_name">You did not specify user name</string>
-    	<string name="Indexing">Indexing</string>
-    	<string name="Indexing_in_progress">Indexing in progress</string>
-    	<string name="Indexing_paused">Indexing paused</string>
-    	<string name="Indexing_has_been_completed">Indexing has  completed</string>
-    	<string name="Indexing_has_been_aborted">Indexing has been aborted</string>
-    	<string name="Tap_to_dismiss">Tap to dismiss</string>
-    	<string name="Tap_top_open">Tap to open</string>
-    	<string name="File_is_ready_to_open">File is ready to open</string>
-    	
-    	<string name="Operation_aborted_by_user">Operation aborted by user</string>
-    	<string name="You_cant_delete_this_item">This item cannot be deleted</string>
-    	<string name="Indexing_service">Indexing service</string>
-    	<string name="Only_local_file_can_be_added_to_the_archive">Only a locally-stored file can be added to the archive</string>
-    	<string name="Bookmark_already_exists">Bookmark already exists</string>
-    	<string name="Added_to_bookmarks">\&quot;%\&quot; added to bookmarks</string>
-    	<string name="Rename_a_file">Rename a file</string>
-    	<string name="Input_was_left_blank">Input was left blank</string>
-    	<string name="File_named_already_exists">File named \&quot;%\&quot; already exists</string>
-    	<string name="Confirm_delete">Confirm delete</string>
-    	<string name="You_cant_create_an_archive_here">Archives cannot be created here</string>
-    	<string name="Cannot_connect_to">Cannot connect to \&quot;%\&quot;</string>
-    	<string name="You_are_not_logged_in">You are not logged in</string>
-		<string name="Can_not_create_the_directory">Cannot create the directory</string>
+    <!-- Question dialogs -->
+    <string name="Are_you_sure_you_want_to_clear_the_history">Are you sure you want to clear the history?</string>
+    <string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Are you sure you want to clear the thumbnail cache?</string>
+    <string name="Are_you_sure_you_want_to_delete_temporary_files">Are you sure you want to delete temporary files?</string>
+    <string name="It_is_time_for_sheduled_indexing">It is time for scheduled indexing. Would you like to perform an index now?</string>
+    <string name="Folder_exists_descr">There is already a folder with the same name in the directory. What do you want to do?</string>
+    <string name="File_exists_descr">There is already a file with the same name in the directory. What do you want to do?</string>
+    <string name="Are_you_sure_you_want_to_delete">Are you sure you want to delete \&quot;%\&quot;?</string>
+    <string name="Are_you_sure_to_abort_current_operation">Are you sure to abort the current operation?</string>
+    <string name="Are_you_sure_you_want_to_delete_all_bookmarks">Are you sure you want to delete all bookmarks?</string>
+    <string name="Are_you_sure_you_want_to_delete_bookmark">Are you sure you want to delete bookmark \&quot;%\&quot; ?</string>
+    <string name="Reindex_prompt">Performing an index. This can take several minutes. Proceed?</string>
+    <string name="Clear_index_prompt">Are you sure you want to clear all index data? This operation can not be undone.</string>
+    <string name="Are_you_sure_to_stop_indexing">Are you sure you want to stop indexing?</string>
+    <string name="Are_you_sure_you_want_to_clear_file_type_associations">Are you sure you want to clear file type associations?</string>
+    <string name="Changes_have_been_made_to_the_file">Changes have been made to the &quot;%&quot;. Do you wish to save them?</string>
+    <string name="Chown_confirm">Are you sure you want to change the ownership of this file?</string>
+    <string name="Busybox_request">It looks like BusyBox is not installed on your device or its version is outdated. It is required to explore the root of your filesystem. Do you want to install it now?</string>
 
-    	<string name="Can_not_create_the_file">Cannot create the file</string>
-    	<string name="Uknown_file_type">Unknown file type</string>
-    	<string name="No_activity_found_to_open_this_file">No activity capable of opening this file was found</string>
-    	<string name="You_cant_send_a_folder">Folders cannot be sent</string>
-    	<string name="Indexing_has_been_unscheduled">Indexing has been descheduled</string>
-    	<string name="Scheduled_indexing">Scheduled indexing</string>
-    	<string name="Tap_to_start">Tap to start</string>
-    	
-    	
-    	<string name="Are_you_sure_you_want_to_delete_items">Are you sure you want to delete % item{1:|__:s}?</string>
-    	<string name="X_files_deleted">% file{1:|__:s} deleted.</string>
-    	<string name="X_files_copied">% file{1:|__:s} copied.</string>
-    	<string name="X_files_moved">% file{1:|__:s} moved.</string>
-    	<string name="X_items">% item{1:|__:s}</string>
-    	<string name="Deleting_X_files">Deleting % file{1:|__:s}</string>
-    	<string name="Copying_X_files">Copying % file{1:|__:s}</string>
-    	<string name="Moving_X_files">Moving % file{1:|__:s}</string>
-    	<string name="Indexing_scheduled_at_X_every_Y">Indexing scheduled at %x every %y day{1:|__:s}</string>
-    	<!-- Explanation of above
-    	
-    		 	In english things are simple because we have 1 file and multiple files.
-    		 	1 file, 2 files, 3 files and so on...
-    			Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
-    			
-    			But let's take polish for example. File means 'Plik'. We have:
-    			0 plikĂłw
-    			1 plik
-    			2, 3, 4 pliki
-    			5, 6, 7, 8, 9, 10, 11, 12 ... plików
-    			but.. 22, 23 pliki
-    			and 26, 27 plików
-    			Complicated, huh?
-    			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
-    			
-    			If you have problems creating this pattern for your language, contact me.
-    			
-    			Quick reference:
-    			'{' - starts the pattern
-    			'}' - ends the pattern
-    			'|' - rule divider
-    			':' - separates range from the associated suffix
-    			'_' - any digit
-    			'-' - range
-    			
-    			Examples:
-    			1:s 	= for single 1 give 's' suffix
-    			3:		= for single 3 give no suffix
-    			4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
-    			1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
-    			_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
-    			__:s	= give 's' for any number
-    			
-    			This pattern has priorities. This means that the first has the highest priority and last the lowest.
-    			there should be always the __:something pattern at the end.
-    	
-    	-->
+    <!-- Information dialogs -->
+    <string name="SkyDrive_doesnt_support_x_files">SkyDrive does not support \&quot;%\&quot; files. Operation has been aborted.</string>
+    <string name="Operation_not_supported">Operation not supported</string>
+    <string name="You_have_to_provide_a_password">You must provide a password</string>
+    <string name="Insufficient_space" formatted="false">There is not enough free space to complete the operation. Size: %, available: %.</string>
+    <string name="Command_executed_successfully">Command executed successfully</string>
+    <string name="Deleting_data">Deleting the data</string>
+    <string name="Done">Done</string>
+    <string name="Preparing_for_operation">Preparing for operation...</string>
+    <string name="Connecting">Connecting</string>
+    <string name="Connecting_to_x">Connecting to \&quot;%\&quot;</string>
+    <string name="File_is_too_big">This file is too big. Only files up to 75kB are supported for editing. Bigger files will be supported soon.</string>
+    <string name="Operation_history_has_been_cleared">Operation history has been cleared</string>
+    <string name="Encrypted_archive">Encrypted archive</string>
+    <string name="Enter_the_password">Enter the password</string>
+    <string name="Confirmation">Confirmation</string>
+    <string name="Input_request">Input request</string>
+    <string name="Message">Message</string>
+    <string name="Warning">Warning!</string>
+    <string name="You_did_not_specify_a_password">You didn\'t specify a password</string>
+    <string name="Reading_archive">Reading archive</string>
+    <string name="Reading_archive_x">Reading archive \&quot;%\&quot;</string>
+    <string name="Storage_not_available">Storage not available</string>
+    <string name="The_password_given_is_incorrect">The given password is incorrect</string>
+    <string name="You_did_not_specify_a_server_name">You did not specify a server name</string>
+    <string name="You_did_not_specify_a_computer_name">You did not specify a computer name</string>
+    <string name="You_did_not_specify_a_port_number">You did not specify a port number</string>
+    <string name="You_did_not_specify_user_name">You did not specify user name</string>
+    <string name="Indexing">Indexing</string>
+    <string name="Indexing_in_progress">Indexing in progress</string>
+    <string name="Indexing_paused">Indexing paused</string>
+    <string name="Indexing_has_been_completed">Indexing has  completed</string>
+    <string name="Indexing_has_been_aborted">Indexing has been aborted</string>
+    <string name="Tap_to_dismiss">Tap to dismiss</string>
+    <string name="Tap_top_open">Tap to open</string>
+    <string name="File_is_ready_to_open">File is ready to open</string>
+    <string name="Operation_aborted_by_user">Operation aborted by user</string>
+    <string name="You_cant_delete_this_item">This item cannot be deleted</string>
+    <string name="Indexing_service">Indexing service</string>
+    <string name="Only_local_file_can_be_added_to_the_archive">Only a locally-stored file can be added to the archive</string>
+    <string name="Bookmark_already_exists">Bookmark already exists</string>
+    <string name="Added_to_bookmarks">\&quot;%\&quot; added to bookmarks</string>
+    <string name="Rename_a_file">Rename a file</string>
+    <string name="Input_was_left_blank">Input was left blank</string>
+    <string name="File_named_already_exists">File named \&quot;%\&quot; already exists</string>
+    <string name="Confirm_delete">Confirm delete</string>
+    <string name="You_cant_create_an_archive_here">Archives cannot be created here</string>
+    <string name="Cannot_connect_to">Cannot connect to \&quot;%\&quot;</string>
+    <string name="You_are_not_logged_in">You are not logged in</string>
+    <string name="Can_not_create_the_directory">Cannot create the directory</string>
+    <string name="Can_not_create_the_file">Cannot create the file</string>
+    <string name="Uknown_file_type">Unknown file type</string>
+    <string name="No_activity_found_to_open_this_file">No activity capable of opening this file was found</string>
+    <string name="You_cant_send_a_folder">Folders cannot be sent</string>
+    <string name="Indexing_has_been_unscheduled">Indexing has been descheduled</string>
+    <string name="Scheduled_indexing">Scheduled indexing</string>
+    <string name="Tap_to_start">Tap to start</string>
+    <string name="Are_you_sure_you_want_to_delete_items">Are you sure you want to delete % item{1:|__:s}?</string>
+    <string name="X_files_deleted">% file{1:|__:s} deleted.</string>
+    <string name="X_files_copied">% file{1:|__:s} copied.</string>
+    <string name="X_files_moved">% file{1:|__:s} moved.</string>
+    <string name="X_items">% item{1:|__:s}</string>
+    <string name="Deleting_X_files">Deleting % file{1:|__:s}</string>
+    <string name="Copying_X_files">Copying % file{1:|__:s}</string>
+    <string name="Moving_X_files">Moving % file{1:|__:s}</string>
+    <string name="Indexing_scheduled_at_X_every_Y">Indexing scheduled at %x every %y day{1:|__:s}</string>
     
-    	
-    
+    <!-- Explanation of above
+    In english things are simple because we have 1 file and multiple files.
+    1 file, 2 files, 3 files and so on...
+    Those brackets mean that for 1 there is no suffix and for the rest there is 's' suffix.
 
+    But let's take polish for example. File means 'Plik'. We have:
+    0 plików
+    1 plik
+    2, 3, 4 pliki
+    5, 6, 7, 8, 9, 10, 11, 12 ... plików
+    but.. 22, 23 pliki
+    and 26, 27 plików
+    Complicated, huh?
+    The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
+
+    If you have problems creating this pattern for your language, contact me.
+
+    Quick reference:
+    '{' - starts the pattern
+    '}' - ends the pattern
+    '|' - rule divider
+   	':' - separates range from the associated suffix
+   	'_' - any digit
+   	'-' - range
+    			
+   	Examples:
+   	1:s 	= for single 1 give 's' suffix
+   	3:		= for single 3 give no suffix
+   	4-7:es	= for 4, 5, 6 and 7 give 'es' suffix
+   	1_:s	= for 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 give 's'
+   	_2-4:es = for any two-digit number which ends with 2, 3 or 4 give 'es'
+   	__:s	= give 's' for any number
+    			
+   	This pattern has priorities. This means that the first has the highest priority and last the lowest.
+   	there should be always the __:something pattern at the end.
+    	
+    -->
     
     <!-- Open as dialog -->
     <string name="Open_as">Open as...</string>
@@ -465,15 +445,11 @@
     <string name="Video_file">Video file</string>
     <string name="ZIP_archive">ZIP Archive</string>
     
-    
     <!-- File picker -->
-    
     <string name="Create_shortcut">Create shortcut</string>
     <string name="Shortcut_tip">To create a folder shortcut, choose \&quot;Create shortcut\&quot; from the context menu.</string>
-    
 
-    
-	<!-- Text editor -->
+    <!-- Text editor -->
     <string name="Wrap_lines">Wrap lines</string>
     <string name="Font_size">Font size</string>
     <string name="Font">Font</string>
@@ -482,86 +458,65 @@
     <string name="Serif">Serif</string>
     <string name="Monospace">Monospace</string>
     <string name="File_saved_successfully">File saved successfully</string>
-    
-    
+
     <!-- Preferences -->
-	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
-	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
+    <!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
+    <!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">Appearance</string>
-	<string name="Theme">Theme</string>
+    <string name="Theme">Theme</string>
     <string name="Choose_between_preinstalled_themes">Choose between preinstalled themes</string>
     <string name="Light">Light</string>
     <string name="Dark">Dark</string>
-    
     <string name="Toggle_visibility_of_hidden_files">Toggle visibility of hidden files</string>
     <string name="Show_hidden_files">Show hidden files</string>
-    
     <string name="Show_file_permissions">Show file permissions</string>
     <string name="Show_file_permissions_summary">Show Unix style permissions instead of last modification date (root files only).</string>
-    
     <string name="Date_format">Date format</string>
     <string name="Customize_date_format">Customize date format</string>
-    
     <string name="Time_format">Time format</string>
-	<string name="Customize_time_format">Customize time format</string>
-	
-	<string name="Show_fast_scroll_thumb_in_file_list">Show fast scroll thumb in the file list</string>
+    <string name="Customize_time_format">Customize time format</string>
+    <string name="Show_fast_scroll_thumb_in_file_list">Show fast scroll thumb in the file list</string>
     <string name="Use_fast_scroll">Use fast scroll</string>
-    
     <string name="Low_quality_thumbnails">Low quality thumbnails</string>
     <string name="Low_quality_thumbnails_summary">Suitable for low memory usage</string>
-    
     <string name="Portrait_fullscreen">Portrait fullscreen</string>
     <string name="Portrait_fullscreen_summary">Hides the system status bar in portrait mode</string>
-    
     <string name="Landscape_fullscreen">Landscape fullscreen</string>
     <string name="Landscape_fullscreen_summary">Hides the system status bar in landscape mode</string>
-    
     <string name="File_list_size">Portrait list size</string>
     <string name="Adjust_size_of_the_file_list">Adjust size of the file list in portrait mode</string>
-    
     <string name="Landscape_file_list_size">Landscape list size</string>
     <string name="Adjust_size_of_the_file_list_in_landscape">Adjust size of the file list in landscape mode</string>
-    
     <string name="Small">Small</string>
     <string name="Big">Big</string>
     <string name="Large">Large</string>
     <string name="Extra_small">Tiny</string>
-    
     <string name="Hide_exit_button">Hide exit button</string>
     <string name="Hide_exit_button_summary">You can also exit the app by long pressing the back key</string>
-    
     <string name="Startup">Startup</string>
-    
     <string name="Remember_last_folder">Remember last folder</string>
     <string name="Will_start_with_recently_viewed_directories">The app will start with recently viewed directories</string>
-    
-    
     <string name="First_panel_default_dir">First panel directory</string>
     <string name="Second_panel_default_dir">Second panel directory</string>
-    
     <string name="Change_pictures_directory">Change pictures directory</string>
     <string name="Change_downloads_directory">Change downloads directory</string>
-    
     <string name="Drag_and_drop">Drag and Drop</string>
     <string name="Action_for_drop_inside_the_panel">Action for the same panel</string>
     <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Dropping an item to a folder in the same panel</string>
     <string name="Action_for_drop_to_the_second_panel">Action for the second panel</string>
     <string name="Dropping_an_item_to_the_second_panel">Dropping an item to the second panel</string>
     <string name="Move">Move</string>
-    
     <string name="Security">Security</string>
     <string name="Master_password_prompt">Solid Explorer uses a master password to encrypt all login credentials. If you care about security it is recommended to use this feature. You will be prompted for the master password only once unless you restart the app. Otherwise default encryption without a password is used. Would you like to use this feature?</string>
     <string name="Disable_master_password_warning">Disabling master password will cause switching to the default password. You will never be asked for it. Login credentials will still be encrypted. Do you want to proceed?</string>
     <string name="Enable_master_password_warning">If you have any previous bookmarks encrypted with the default password, they will be removed. Continue?</string>
     <string name="Enable_master_password">Enable master password</string>
-	<string name="Too_weak_password">Password must be at least 6 characters, no more than 16 characters</string>
+    <string name="Too_weak_password">Password must be at least 6 characters, no more than 16 characters</string>
     <string name="Enter_the_master_password">Enter the master password</string>
     <string name="Enter_a_new_master_password">Enter a new master password.</string> 
     <string name="Encrypt_all_login_ceredentials_with_a_master_password">Encrypt all login credentials with a master password</string>
     <string name="Set_master_password">Change master password</string>
     <string name="All_passwords_will_be_reencrypted">All passwords will be re-encrypted</string>
-    
     <string name="I_dont_remember_my_old_password">I don\'t remember my old password</string>
     <string name="Reset_password_warning">Warning! If you set the new password right now, then all bookmarks, which passwords has been encrypted using the old one, will be removed.</string>
     <string name="Old_password">Old password</string>
@@ -569,9 +524,6 @@
     <string name="Master_password_has_been_disabled">Master password has been disabled</string>
     <string name="Passwords_do_not_match">Passwords do not match</string>
     <string name="Password_is_too_short">Password is too short</string>
-    
-    
-    
     <string name="Search_interface">Search interface</string>
     <string name="Search_key_starts_filtering">Search key starts filtering</string>
     <string name="Search_key_starts_filtering_summary">Start filtering list instead of launching search activity</string>
@@ -579,33 +531,30 @@
     <string name="Filter_words_from_the_beginning">Filter from the beginning</string>
     <string name="Customize_indexing_engine_behaviour">Customize indexing engine behaviour</string>
     <string name="Indexing_engine">Indexing engine</string>
-    	<string name="Reindex_now">Reindex now</string>
-    	<string name="Refresh_index_database">Refresh index database. It has no effect when the process is active.</string>
-    	<string name="Clear_index_data">Clear index data</string>
-    	<string name="Delete_all_index_data">Delete all index data</string>
-    	<string name="Reindex_on_media_mount">Reindex on media mount</string>
-    	<string name="Reindex_storage_device_when_it_is_mounted">Reindex storage device when it is mounted (recommended)</string>
-    	<string name="Shedule_indexing">Schedule indexing</string>
-    	<string name="Perform_reindex_every_given_period">Perform reindex every given period</string>
-    	<string name="Set_time_and_period">Set time and period</string>
-    	<string name="The_time_when_the_indexing_will_be_triggered">The time when the indexing will be triggered</string>
-    	<string name="Maximum_index_age">Maximum index age</string>
-    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">How much time the index should remain in the database when its file does not exist</string>
-    	<string name="one_day">1 day</string>
-    	<string name="two_days">2 days</string>
-    	<string name="five_days">5 days</string>
-    	<string name="One_week">One week</string>
-    	<string name="Choose_interval">Choose_interval</string>
-    	<string name="three_days">3 days</string>
-    	<string name="How_often_indexing_will_be_performed">How often indexing will be performed</string>
-    	<string name="Set_period">Set period</string>
-    	<string name="Set_time">Set time</string>
-    	<string name="Show_notifications">Show notifications</string>
-    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Show notifications when indexing has been completed or aborted</string>
-    
-    
+    <string name="Reindex_now">Reindex now</string>
+    <string name="Refresh_index_database">Refresh index database. It has no effect when the process is active.</string>
+    <string name="Clear_index_data">Clear index data</string>
+    <string name="Delete_all_index_data">Delete all index data</string>
+    <string name="Reindex_on_media_mount">Reindex on media mount</string>
+    <string name="Reindex_storage_device_when_it_is_mounted">Reindex storage device when it is mounted (recommended)</string>
+    <string name="Shedule_indexing">Schedule indexing</string>
+    <string name="Perform_reindex_every_given_period">Perform reindex every given period</string>
+    <string name="Set_time_and_period">Set time and period</string>
+    <string name="The_time_when_the_indexing_will_be_triggered">The time when the indexing will be triggered</string>
+    <string name="Maximum_index_age">Maximum index age</string>
+    <string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">How much time the index should remain in the database when its file does not exist</string>
+    <string name="one_day">1 day</string>
+    <string name="two_days">2 days</string>
+    <string name="five_days">5 days</string>
+    <string name="One_week">One week</string>
+    <string name="Choose_interval">Choose_interval</string>
+    <string name="three_days">3 days</string>
+    <string name="How_often_indexing_will_be_performed">How often indexing will be performed</string>
+    <string name="Set_period">Set period</string>
+    <string name="Set_time">Set time</string>
+    <string name="Show_notifications">Show notifications</string>
+    <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Show notifications when indexing has been completed or aborted</string>
     <string name="Other">Other</string>
-    	
     <string name="Clear_persistent_data">Clear persistent data</string>
     <string name="Clear_thumbnail_cache">Clear thumbnail cache</string>
     <string name="Clear_temporary_files">Clear temporary files</string>
@@ -617,15 +566,13 @@
     <string name="Clear_file_type_associations_summary">Delete information about applications used to open particular file types</string>
     <string name="Clear_temporary_files_on_exit">Clear temp on exit</string>
     <string name="Temporary_files_will_be_removed_on_app_exit">Temporary files will be removed on app exit</string>
-    
     <string name="Quick_start_guide">Quick start guide</string>
     <string name="Learn_about_main_features">Learn about Solid Explorer\'s major features</string>
     <string name="Help_make_Solid_Explorer_better">Help make Solid Explorer better</string>
     <string name="Report_a_bug">Report a bug</string>
-   
     <string name="About">About</string>
     <string name="Author_version_and_changelog">Author, version and changelog</string>
-    <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof G?odowski</string>
     <string name="Version">Version</string>
     <string name="Changelog">Changelog</string>
     <string name="Whats_new">What\'s new</string>
@@ -633,18 +580,14 @@
     <string name="Functionality_for_future_releases">Functionality for future releases</string>
     <string name="Planned_features">Planned features</string>
     
-    
-    
     <!-- Other -->
     <string name="Prefix">Prefix</string>
     <string name="Empty">Empty</string>
-	<string name="search_description">Search your device using Solid Explorer</string>
+    <string name="search_description">Search your device using Solid Explorer</string>
     <string name="search_hint">Type a file name </string>
     <string name="Save_file">Save file</string>
     <string name="Solid_explorer_indexing_service">Solid Explorer indexing service</string>
-    
-    
-    
+
     <!-- acra -->
     <string name="crash_toast_text">Ooooops! Solid Explorer has crashed. Please send the report to the developer to help him fix the issue !</string>
     <string name="crash_notif_ticker_text">Unexpected error, please send a report...</string>
@@ -654,13 +597,10 @@
     <string name="crash_dialog_text">An unexpected error occurred forcing the application to stop. Please help me fix this by sending me error data.</string>
     <string name="crash_dialog_comment_prompt">Please provide detailed information about the problem below. In most cases it is impossible to reproduce the problem without your feedback.</string>
     <string name="crash_dialog_ok_toast">Thank you!</string>
-    
     <string name="Icon_designer">Icon designer</string>
     <string name="Translations">Translation</string>
     <string name="Translations_summary">Language correction by courtesy of Steven Schoen</string>
     <string name="Press_once_again_to_exit">Press once again to exit</string>
-    
-    
     <string name="View_in_DiskUsage">View in DiskUsage</string>
     <string name="Retry">Retry</string>
     <string name="Portrait">Portrait</string>
@@ -701,191 +641,187 @@
     <string name="Notification_shortcut">Notification shortcut</string>
     <string name="Notification_shortcut_summary">Put the shortcut in the status bar when the app is running in the background</string>
     <string name="Please_wait">Please wait</string>
-    
-    
     <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Are you sure you want to copy this to the opposite panel?</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Are you sure you want to move this to the opposite panel?</string>
-	<string name="Image_not_loaded">Image not loaded</string>
-	<string name="Target_SDK">Target SDK</string>
-	<string name="Description">Description</string>
-	<string name="Data_dir">Data dir</string> <!-- short word please -->
-	<string name="Installed">Installed</string>
-	<string name="Updated">Updated</string>
-	<string name="Install">Install</string>
-	<string name="More">More</string>
-	<string name="Package_name">Package name</string>
-	<string name="Map_view">Map view</string>
-	<string name="Street_view">Street view</string>
-	<string name="Ask">Ask</string>
-	<string name="Choose_an_action">Choose an action</string>
-	<string name="Folders_first">Folders first</string>
-	<string name="Folders_first_summary">Show folders first, then files.</string>
-	<string name="FAQ">FAQ</string>
-	<string name="FAQ_summary">Please read the FAQ before asking any question</string>
+    <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Are you sure you want to move this to the opposite panel?</string>
+    <string name="Image_not_loaded">Image not loaded</string>
+    <string name="Target_SDK">Target SDK</string>
+    <string name="Description">Description</string>
+    <string name="Data_dir">Data dir</string>
+
+    <!-- short word please -->
+    <string name="Installed">Installed</string>
+    <string name="Updated">Updated</string>
+    <string name="Install">Install</string>
+    <string name="More">More</string>
+    <string name="Package_name">Package name</string>
+    <string name="Map_view">Map view</string>
+    <string name="Street_view">Street view</string>
+    <string name="Ask">Ask</string>
+    <string name="Choose_an_action">Choose an action</string>
+    <string name="Folders_first">Folders first</string>
+    <string name="Folders_first_summary">Show folders first, then files.</string>
+    <string name="FAQ">FAQ</string>
+    <string name="FAQ_summary">Please read the FAQ before asking any question</string>
 	
-	<!-- v 1.3.8 -->
-	<string name="Quick_config">Quick config</string> <!-- short word please -->
-	
-	<!-- Now multiple patterns are supported so you can correct previous patterns
-	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x folder{1:|__:s} and %y file{1:|__:s} deleted.</string>
-    	<string name="X_folders_and_Y_files_copied">%x folder{1:|__:s} and %y file{1:|__:s} copied.</string>
-    	<string name="X_folders_and_Y_files_moved">%x folder{1:|__:s} and %y file{1:|__:s} moved.</string>
-    	<string name="Deleting_X_folders_and_Y_files">Deleting %x folder{1:|__:s} and %y file{1:|__:s}</string>
-    	<string name="Copying_X_folders_and_Y_files">Copying %x folder{1:|__:s} and %y file{1:|__:s}</string>
-    	<string name="Moving_X_folders_and_Y_files">Moving %x folder{1:|__:s} and %y file{1:|__:s}</string>
-    	
-    	<string name="X_folders_moved">% folder{1:|__:s} moved.</string>
-    	<string name="Moving_X_folders">Moving % folder{1:|__:s}</string>
-    	
-    	<string name="X_folders">% folder{1:|__:s}</string>
-    	<string name="X_files">% file{1:|__:s}</string>
-    	
-    	<string name="Show_status_summary">Show information about directory content and used space in the explorer window</string>
-    	<string name="Show_status">Show status</string>
-    	<string name="Mount_rw">Mount r/w</string>
-    	<string name="System_mounted_as_read_write">System mounted as read/write</string>
-    	<string name="System_mounted_as_read_only">System mounted as read only</string>
+    <!-- v 1.3.8 -->
+    <string name="Quick_config">Quick config</string> <!-- short word please -->
+    
+    <!-- Now multiple patterns are supported so you can correct previous patterns
+    if more than one noun in a sentence is affected -->
+    <string name="X_folders_and_Y_files_deleted">%x folder{1:|__:s} and %y file{1:|__:s} deleted.</string>
+    <string name="X_folders_and_Y_files_copied">%x folder{1:|__:s} and %y file{1:|__:s} copied.</string>
+    <string name="X_folders_and_Y_files_moved">%x folder{1:|__:s} and %y file{1:|__:s} moved.</string>
+    <string name="Deleting_X_folders_and_Y_files">Deleting %x folder{1:|__:s} and %y file{1:|__:s}</string>
+    <string name="Copying_X_folders_and_Y_files">Copying %x folder{1:|__:s} and %y file{1:|__:s}</string>
+    <string name="Moving_X_folders_and_Y_files">Moving %x folder{1:|__:s} and %y file{1:|__:s}</string>
+    <string name="X_folders_moved">% folder{1:|__:s} moved.</string>
+    <string name="Moving_X_folders">Moving % folder{1:|__:s}</string>
+    <string name="X_folders">% folder{1:|__:s}</string>
+    <string name="X_files">% file{1:|__:s}</string>
+    <string name="Show_status_summary">Show information about directory content and used space in the explorer window</string>
+    <string name="Show_status">Show status</string>
+    <string name="Mount_rw">Mount r/w</string>
+    <string name="System_mounted_as_read_write">System mounted as read/write</string>
+    <string name="System_mounted_as_read_only">System mounted as read only</string>
     	
     <!--  v 1.3.9 -->
-    	<string name="Device_labels">Device labels</string>
-    	<string name="Device_labels_summary">Show human readable device labels instead of real directory names, ex. \&quot;SD Card\&quot; instead of \&quot;sdcard0\&quot;</string>
-    	<string name="Swap_device_labels">Swap device labels</string>
-    	<string name="Swap_device_labels_summary">Swap Internal Memory with SD Card labels in case of incorrect detection.</string>
-    	<string name="Panels">Panels</string>
-    	<string name="Devices">Devices</string>
-    	<string name="Bug_report_notice">Before reporting a bug please do the following:\n\n<b>1. Check whether the issue exists in other file manager apps.\n2. Read the FAQ.</b>\n\nDid you complete the steps above?</string>
-    	<string name="Unable_to_move_the_file">Unable to move the file %</string>
+    <string name="Device_labels">Device labels</string>
+    <string name="Device_labels_summary">Show human readable device labels instead of real directory names, ex. \&quot;SD Card\&quot; instead of \&quot;sdcard0\&quot;</string>
+    <string name="Swap_device_labels">Swap device labels</string>
+    <string name="Swap_device_labels_summary">Swap Internal Memory with SD Card labels in case of incorrect detection.</string>
+    <string name="Panels">Panels</string>
+    <string name="Devices">Devices</string>
+    <string name="Bug_report_notice">Before reporting a bug please do the following:\n\n<b>1. Check whether the issue exists in other file manager apps.\n2. Read the FAQ.</b>\n\nDid you complete the steps above?</string>
+    <string name="Unable_to_move_the_file">Unable to move the file %</string>
     
     <!-- v 1.4.0 -->
-    	<string name="Compression_ratio">Compression ratio</string>
-    	<string name="Compression_method">Compression method</string>
-    	<string name="Comment">Comment</string>
-    	<string name="Standard">Standard</string>
-    	<string name="No_compression">No compression</string>
-    	<string name="A_while_ago">A while ago</string>
-    	<string name="X_hours_Y_minutes_ago">%x hour{1:|__:s} %y minute{1:|__:s} ago</string>
-    	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">Thank you for using Solid Explorer, your trial is over now. To continue using this app, buy me a virtual beer by purchasing the unlocker from Google Play. Do it only when you are fully satisfied with the app.</string>
-    	<string name="Purchased_message">Thank you for purchasing the full version of Solid Explorer. I hope you will enjoy it.</string>
-    	<string name="Trial_expired">Trial expired</string>
-    	<string name="Purchase">Purchase</string>
-    	<string name="No_thanks">No, thanks</string>
-    	<string name="Function_not_available">This function is not available in current system version</string>
+    <string name="Compression_ratio">Compression ratio</string>
+    <string name="Compression_method">Compression method</string>
+    <string name="Comment">Comment</string>
+    <string name="Standard">Standard</string>
+    <string name="No_compression">No compression</string>
+    <string name="A_while_ago">A while ago</string>
+    <string name="X_hours_Y_minutes_ago">%x hour{1:|__:s} %y minute{1:|__:s} ago</string>
+	
+    <!-- Already exists, just changed the content -->
+    <string name="Expiration_message">Thank you for using Solid Explorer, your trial is over now. To continue using this app, buy me a virtual beer by purchasing the unlocker from Google Play. Do it only when you are fully satisfied with the app.</string>
+    <string name="Purchased_message">Thank you for purchasing the full version of Solid Explorer. I hope you will enjoy it.</string>
+    <string name="Trial_expired">Trial expired</string>
+    <string name="Purchase">Purchase</string>
+    <string name="No_thanks">No, thanks</string>
+    <string name="Function_not_available">This function is not available in current system version</string>
     	
     <!-- v 1.4.3 -->
-    	<string name="Wallpaper_has_been_set_successfully">Wallpaper has been set successfully</string>
-    	<string name="X_has_been_set_as_default_ringtone">% has been set as default ringtone</string>
-    	<string name="X_has_been_set_as_default_notification">% has been set as default notification sound</string>
-    	<string name="X_has_been_set_as_default_alarm">% has been set as default alarm sound</string>
-    	<string name="Copy_path">Copy path</string>
-    	<string name="Copy_name">Copy name</string>
-    	<string name="Create_symlink">Create symlink</string>
-    	<string name="Set_as_wallpaper">Set as wallpaper</string>
-    	<string name="Set_as_ringtone">Set as ringtone</string>
-    	<string name="Set_as_notification">Set as notification</string>
-    	<string name="Set_as_alarm">Set as alarm</string>
-    	<string name="Enter_the_symlink_location">Enter the symlink location</string>
-    	<string name="Symbolic_link_created_successfully">Symbolic link created successfully</string>
-    	<string name="Sugarsync_login">SugarSync login</string>
-    	<string name="Copy_link">Copy link</string>
-    	<string name="Data_backup">Data backup</string>
-    	<string name="Application_data">Application data</string>
-    	<string name="Create_backup">Create backup</string>
-    	<string name="Backup_application_data_to_a_desired_file">Backup application data to a desired file</string>
-    	<string name="Restore_backup">Restore backup</string>
-    	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Choose a backup file from which the data will be restored</string>
-    	<string name="Data_backup_created">Data backup created</string>
-    	<string name="Data_backup_restored">Data backup restored</string>
-    	<string name="Support">Support</string>
-    	<string name="Support_summary">Visit the Solid Explorer\'s support page</string>
-    	<string name="Experimental_feature_notifier">Please note, that this feature is experimental and will likely not work properly on your current Android version.</string>
-    	<string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
-    	<string name="Back_goes_to_root">Back goes to root</string>
-    	<string name="Back_goes_to_root_summary">Allow to go to the root directory when hitting the Back button</string>
-    	<string name="Keep_the_screen_on">Keep the screen on</string>
-    	<string name="Keep_the_screen_on_summary">Keep the screen on during the file transfers. Check, if you experience transfer slowdowns when the screen is off.</string>
+    <string name="Wallpaper_has_been_set_successfully">Wallpaper has been set successfully</string>
+    <string name="X_has_been_set_as_default_ringtone">% has been set as default ringtone</string>
+    <string name="X_has_been_set_as_default_notification">% has been set as default notification sound</string>
+    <string name="X_has_been_set_as_default_alarm">% has been set as default alarm sound</string>
+    <string name="Copy_path">Copy path</string>
+    <string name="Copy_name">Copy name</string>
+    <string name="Create_symlink">Create symlink</string>
+    <string name="Set_as_wallpaper">Set as wallpaper</string>
+    <string name="Set_as_ringtone">Set as ringtone</string>
+    <string name="Set_as_notification">Set as notification</string>
+    <string name="Set_as_alarm">Set as alarm</string>
+    <string name="Enter_the_symlink_location">Enter the symlink location</string>
+    <string name="Symbolic_link_created_successfully">Symbolic link created successfully</string>
+    <string name="Sugarsync_login">SugarSync login</string>
+    <string name="Copy_link">Copy link</string>
+    <string name="Data_backup">Data backup</string>
+    <string name="Application_data">Application data</string>
+    <string name="Create_backup">Create backup</string>
+    <string name="Backup_application_data_to_a_desired_file">Backup application data to a desired file</string>
+    <string name="Restore_backup">Restore backup</string>
+    <string name="Choose_a_backup_file_from_which_the_data_will_be_restored">Choose a backup file from which the data will be restored</string>
+    <string name="Data_backup_created">Data backup created</string>
+    <string name="Data_backup_restored">Data backup restored</string>
+    <string name="Support">Support</string>
+    <string name="Support_summary">Visit the Solid Explorer\'s support page</string>
+    <string name="Experimental_feature_notifier">Please note, that this feature is experimental and will likely not work properly on your current Android version.</string>
+    <string name="Trial_check_notice">Solid Explorer could not verify the trial period. Please enable internet connection now or within 2 days. Otherwise your trial period will be over.</string>
+    <string name="Back_goes_to_root">Back goes to root</string>
+    <string name="Back_goes_to_root_summary">Allow to go to the root directory when hitting the Back button</string>
+    <string name="Keep_the_screen_on">Keep the screen on</string>
+    <string name="Keep_the_screen_on_summary">Keep the screen on during the file transfers. Check, if you experience transfer slowdowns when the screen is off.</string>
     	
     <!-- v 1.4.4 -->
-    	<string name="Clear_thumbnails_on_exit">Clear thumbnails on exit</string>
-    	<string name="Image_thumbnails_will_be_removed_on_app_exit">Image thumbnails will be removed on app exit</string>
-		<string name="Toggle_nomedia">Toggle .nomedia file</string>
-		<string name="Total_time">Total time</string>
-		<string name="Average_speed">Average speed</string>
-		<string name="Add_new_item">Add new item</string>
-		<string name="Application_chooser">Application chooser</string>
-		<string name="Manage_associations">Manage associations</string>
-		<string name="Manage_associations_summary">Specify which applications should open desired file types</string>
-		<string name="Choose_an_application">Choose an application</string>
-		<string name="Application">Application</string>
-		<string name="Extension">Extension</string>
-		<string name="No_extension_specified">No extension specified</string>
-		<string name="You_didn_t_choose_the_application">You didn\'t choose the application</string>
-		<string name="Added_to_queue">Added to queue</string>
-		<string name="Streaming">Streaming</string>
-		<string name="There_is_already_the_same_file_in_temporary_directory">There is already the same file in temporary directory. Would you like to open the cached file or download the fresh one?</string>
-		<string name="Download">Download</string>
-		<string name="X_files_updated">% file{1:|__:s} updated</string>
-		<string name="Temporary_file_has_been_modified">The temporary file % has been modified. Would you like to upload it back?</string>
-		<string name="Temporary_files_have_been_modified">% temporary file{1:|__:s} have been modified. Would you like to upload them?</string>
-		<string name="Slide_from_bottom">Slide from bottom</string>
-		<string name="Fall_down">Fall down</string>
-		<string name="Come_in">Come in</string>
-		<string name="Slide_from_right">Slide from right</string>
-		<string name="Slide_from_left">Slide from left</string>
-		<string name="Default">Default</string>
-		<string name="List_animations">List animations</string>
-		<string name="List_animations_summary">Customize file list animations</string>
-		<string name="Clear_filter_history">Clear filter history</string>
-		<string name="Clear_filter_history_summary">Delete list filter\'s query history</string>
-		<string name="New_webdav_connection">WebDav connection</string>
-		<string name="WebDav_bookmarks">WebDav bookmarks</string>
-		
-		
-		<!--  v 1.4.5 -->
-		<string name="Domain">Domain</string>
-		<string name="Mode">Mode</string>
-		<string name="Passive">Passive</string>
-		<string name="Nomedia_on">.nomedia file created</string>
-		<string name="Nomedia_off">.nomedia file deleted</string>
-		<string name="Wifi_disabled">WiFi disabled</string>
-		<string name="Wifi_enabled">WiFi enabled</string>
-		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Are you sure you want to restore default settings for this item?</string>
-		
-		
-		<!-- v 1.4.6 -->
-		<string name="no_wifi_available">No wifi available. Would you like to setup a hot spot on your device?</string>
-		<string name="disable_hotspot">Disable hotspot?</string>
-		
-		<!-- v 1.5 -->
-		<string name="Any_type">Any type</string>
-		<string name="Ubuntu_one_login">Ubuntu One login</string>
-		<string name="Master_password_has_been_changed">Master password has been changed</string>
-		<string name="Encryption">Encryption</string>
-		<string name="Certificates">Certificates</string>
-		<string name="Trust_all_ssl_certificates">Trust all SSL certificates</string>
-		<string name="Use_at_your_own_risk">Use at your own risk</string>
-		<string name="Gestures">Gestures</string>
-		<string name="Enable_list_zoom">Enable list zoom</string>
-		<string name="Enable_list_zoom_summary">When enabled, you can change size of the lists using pinch gesture</string>
-		<string name="Mediafire_login">Log in to MediaFire</string>
-		<string name="No_master_password_set">Master password has not been set</string>
-		
-		<!-- v 1.5.1 -->
-		<string name="Ssl_certificate_is_not_trusted">The certificate is not signed by a trusted authority. Do you want to accept it?</string>
-		<string name="Issuer">Issuer</string>
-		<string name="Subject">Subject</string>
-		<string name="Expiration">Expiration</string>
-		<string name="Common_name">Common name</string>
-		<string name="Organization">Organization</string>
-		<string name="Organizational_unit">Organizational unit</string>
-		<string name="Country">Country</string>
-		<string name="State">State</string>
-		<string name="Algorithm">Algorithm</string>
-		<string name="Exponent">Exponent</string>
-		<string name="Key_length">Key length</string>
-		<string name="Accept">Accept</string>
-		<string name="Rescan_all_media">Rescan all media</string>
-		<string name="Rescan_all_media_summary">Rescan all media after each file transfer. Use this option if the gallery doesn\'t update properly.</string>
+    <string name="Clear_thumbnails_on_exit">Clear thumbnails on exit</string>
+    <string name="Image_thumbnails_will_be_removed_on_app_exit">Image thumbnails will be removed on app exit</string>
+    <string name="Toggle_nomedia">Toggle .nomedia file</string>
+    <string name="Total_time">Total time</string>
+    <string name="Average_speed">Average speed</string>
+    <string name="Add_new_item">Add new item</string>
+    <string name="Application_chooser">Application chooser</string>
+    <string name="Manage_associations">Manage associations</string>
+    <string name="Manage_associations_summary">Specify which applications should open desired file types</string>
+    <string name="Choose_an_application">Choose an application</string>
+    <string name="Application">Application</string>
+    <string name="Extension">Extension</string>
+    <string name="No_extension_specified">No extension specified</string>
+    <string name="You_didn_t_choose_the_application">You didn\'t choose the application</string>
+    <string name="Added_to_queue">Added to queue</string>
+    <string name="Streaming">Streaming</string>
+    <string name="There_is_already_the_same_file_in_temporary_directory">There is already the same file in temporary directory. Would you like to open the cached file or download the fresh one?</string>
+    <string name="Download">Download</string>
+    <string name="X_files_updated">% file{1:|__:s} updated</string>
+    <string name="Temporary_file_has_been_modified">The temporary file % has been modified. Would you like to upload it back?</string>
+    <string name="Temporary_files_have_been_modified">% temporary file{1:|__:s} have been modified. Would you like to upload them?</string>
+    <string name="Slide_from_bottom">Slide from bottom</string>	
+    <string name="Fall_down">Fall down</string>
+    <string name="Come_in">Come in</string>
+    <string name="Slide_from_right">Slide from right</string>
+    <string name="Slide_from_left">Slide from left</string>
+    <string name="Default">Default</string>
+    <string name="List_animations">List animations</string>
+    <string name="List_animations_summary">Customize file list animations</string>
+    <string name="Clear_filter_history">Clear filter history</string>
+    <string name="Clear_filter_history_summary">Delete list filter\'s query history</string>
+    <string name="New_webdav_connection">WebDav connection</string>
+    <string name="WebDav_bookmarks">WebDav bookmarks</string>		
+    
+    <!--  v 1.4.5 -->
+    <string name="Domain">Domain</string>
+    <string name="Mode">Mode</string>
+    <string name="Passive">Passive</string>
+    <string name="Nomedia_on">.nomedia file created</string>
+    <string name="Nomedia_off">.nomedia file deleted</string>
+    <string name="Wifi_disabled">WiFi disabled</string>
+    <string name="Wifi_enabled">WiFi enabled</string>
+    <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Are you sure you want to restore default settings for this item?</string>
+    
+    <!-- v 1.4.6 -->
+    <string name="no_wifi_available">No wifi available. Would you like to setup a hot spot on your device?</string>
+    <string name="disable_hotspot">Disable hotspot?</string>
+    
+    <!-- v 1.5 -->
+    <string name="Any_type">Any type</string>
+    <string name="Ubuntu_one_login">Ubuntu One login</string>
+    <string name="Master_password_has_been_changed">Master password has been changed</string>
+    <string name="Encryption">Encryption</string>
+    <string name="Certificates">Certificates</string>
+    <string name="Trust_all_ssl_certificates">Trust all SSL certificates</string>
+    <string name="Use_at_your_own_risk">Use at your own risk</string>
+    <string name="Gestures">Gestures</string>
+    <string name="Enable_list_zoom">Enable list zoom</string>
+    <string name="Enable_list_zoom_summary">When enabled, you can change size of the lists using pinch gesture</string>
+    <string name="Mediafire_login">Log in to MediaFire</string>
+    <string name="No_master_password_set">Master password has not been set</string>
+    
+    <!-- v 1.5.1 -->
+    <string name="Ssl_certificate_is_not_trusted">The certificate is not signed by a trusted authority. Do you want to accept it?</string>
+    <string name="Issuer">Issuer</string>
+    <string name="Subject">Subject</string>
+    <string name="Expiration">Expiration</string>
+    <string name="Common_name">Common name</string>
+    <string name="Organization">Organization</string>
+    <string name="Organizational_unit">Organizational unit</string>
+    <string name="Country">Country</string>
+    <string name="State">State</string>
+    <string name="Algorithm">Algorithm</string>
+    <string name="Exponent">Exponent</string>
+    <string name="Key_length">Key length</string>
+    <string name="Accept">Accept</string>
+    <string name="Rescan_all_media">Rescan all media</string>
+    <string name="Rescan_all_media_summary">Rescan all media after each file transfer. Use this option if the gallery doesn\'t update properly.</string>
 		
 </resources>
