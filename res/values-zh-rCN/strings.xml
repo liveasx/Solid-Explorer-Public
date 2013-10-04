@@ -381,7 +381,6 @@
     <string name="Cannot_connect_to">无法连接至 \&quot;%\&quot;</string>
     <string name="You_are_not_logged_in">您还尚未登陆</string>
     <string name="Can_not_create_the_directory">无法创建目录</string>
-    <string name="Beta_expired">测试版本已过期</string>
     <string name="Can_not_create_the_file">无法创建该文件</string>
     <string name="Uknown_file_type">未知文件格式</string>
     <string name="No_activity_found_to_open_this_file">尚未发现可打开此类文件的应用程序</string>
@@ -398,8 +397,6 @@
     <string name="Copying_X_files">正在复制 % 个文件</string>
     <string name="Moving_X_files">正在移动 % 个文件</string>
     <string name="Indexing_scheduled_at_X_every_Y">索引计划将每隔 %y 天的 %x 执行</string>
-
-
 
     <!-- Explanation of above
  
@@ -439,8 +436,6 @@
     there should be always the __:something pattern at the end.
  
     -->
- 
- 
  
     <!-- Open as dialog -->
     <string name="Open_as">使用其它方式打开</string>
@@ -562,7 +557,6 @@
     <string name="Show_notifications_when_indexing_has_been_completed_or_aborted">当索引完成或取消时候显示通知</string>
     <string name="Other">其它</string>
     <string name="Clear_persistent_data">清除数据</string>
-    <string name="Clear_persistent_data_summary">删除缩略图缓存、临时文件、操作记录等</string>
     <string name="Clear_thumbnail_cache">清除缩略图缓存</string>
     <string name="Clear_temporary_files">清除临时文件</string>
     <string name="Clear_operation_history">清除操作历史</string>
@@ -579,7 +573,7 @@
     <string name="Report_a_bug">报告 Bug</string>
     <string name="About">关于</string>
     <string name="Author_version_and_changelog">开发者、版本以及更新日志</string>
-    <string name="Copyright_text">版权所有 2011-2013 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">版权所有 2011-2013 \nKrzysztof G?odowski</string>
     <string name="Version">版本</string>
     <string name="Changelog">更新日志</string>
     <string name="Whats_new">更新内容</string>
@@ -648,17 +642,14 @@
     <string name="Notification_shortcut">通知栏显示图标</string>
     <string name="Notification_shortcut_summary">当程序运行的时候在状态栏显示图标</string>
     <string name="Please_wait">请稍候</string>
-    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">
-    您是否确认复制该文件至第二面板？
-    </string>
-    <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">
-    您是否确认移动该文件至第二面板？
-    </string>
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">您是否确认复制该文件至第二面板？</string>
+    <string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">您是否确认移动该文件至第二面板？</string>
     <string name="Image_not_loaded">图片尚未加载</string>
     <string name="Target_SDK">目标 SDK</string>
     <string name="Description">描述</string>
     <string name="Data_dir">数据目录</string>
-    <!--  short word please  -->
+	
+    <!-- short word please -->
     <string name="Installed">安装时间</string>
     <string name="Updated">更新时间</string>
     <string name="Install">安装</string>
@@ -701,6 +692,8 @@
     <string name="Swap_device_labels_summary">交换内置存储和 SD 卡标签，以防检测错误。</string>
     <string name="Panels">面板</string>
     <string name="Devices">设备</string>
+	<string name="Bug_report_notice">在报告BUG之前，请执行以下操作：\n\n<b>1. 检查问题是否存在于其他的文件管理器应用程序。\n2. 阅读常见问题解答。</b>\n\n完成上面的步骤了吗？</string>
+    <string name="Unable_to_move_the_file">无法移动 % 文件</string>
  
     <!-- v 1.4.0 -->
     <string name="Compression_ratio">压缩率</string>
@@ -710,10 +703,11 @@
     <string name="No_compression">无压缩</string>
     <string name="A_while_ago">一段时间之前</string>
     <string name="X_hours_Y_minutes_ago">%x 小时 %y 分之前</string>
+	
     <!-- Already exists, just changed the content -->
     <string name="Expiration_message">感谢您使用 Solid Explorer，试用期到此结束。若您需继续使用，请移步至 Google Play 购买解锁密钥，请确保您对该应用完全满意后再进行付款。</string>
     <string name="Purchased_message">感谢您购买完整版 Solid Explorer。祝您使用愉快！</string>
-    <string name="Trial_expired">试用已过期</string>
+    <string name="Trial_expired">试用版已过期</string>
     <string name="Purchase">购买解锁密钥</string>
     <string name="No_thanks">不，谢谢</string>
     <string name="Function_not_available">该功能在当前系统版本中不可用</string>
@@ -795,6 +789,10 @@
     <string name="Wifi_disabled">WiFi 已禁用</string>
     <string name="Wifi_enabled">WiFi 已启用</string>
     <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">您确定要为此项目恢复默认设置吗？</string>
+
+	<!-- v 1.4.6 -->
+	<string name="no_wifi_available">没有WiFi可用。您想在您的设备上设置一个热点吗？</string>
+	<string name="disable_hotspot">关闭热点？</string>
 
     <!-- v 1.5 -->
     <string name="Any_type">任意类型</string>
