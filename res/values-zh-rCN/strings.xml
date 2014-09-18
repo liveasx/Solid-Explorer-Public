@@ -574,12 +574,12 @@
     <string name="About">关于</string>
     <string name="Author_version_and_changelog">开发者、版本以及更新日志</string>
     <string name="Copyright_text">版权所有 2011-2013 \nKrzysztof G?odowski</string>
-    <string name="Version">版本</string>
+    <string name="Version">当前版本</string>
     <string name="Changelog">更新日志</string>
-    <string name="Whats_new">更新内容</string>
+    <string name="Whats_new">查看更新内容</string>
     <string name="Author">开发者</string>
     <string name="Functionality_for_future_releases">计划实现功能</string>
-    <string name="Planned_features">计划中新特性</string>
+    <string name="Planned_features">查看计划中新特性</string>
  
     <!-- Other -->
     <string name="Prefix">字首</string>
@@ -599,8 +599,8 @@
     <string name="crash_dialog_comment_prompt">请在下方提供问题的详细描述，如果没有您的反馈，问题将很难重现从而难以解决。</string>
     <string name="crash_dialog_ok_toast">非常感谢！</string>
     <string name="Icon_designer">图标设计</string>
-    <string name="Translations">翻译</string>
-    <string name="Translations_summary">感谢 lhn1989 以及吴天豪提供简体中文翻译</string>
+    <string name="Translations">翻译人员</string>
+    <string name="Translations_summary">感谢lhn1989、吴天豪、Asx提供简体中文翻译</string>
     <string name="Press_once_again_to_exit">再次按下返回键退出</string>
     <string name="View_in_DiskUsage">在 Disk Usage 中查看</string>
     <string name="Retry">重试</string>
@@ -718,7 +718,7 @@
     <string name="X_has_been_set_as_default_notification">已设置 % 为默认通知音</string>
     <string name="X_has_been_set_as_default_alarm">% 已设置为默认闹铃</string>
     <string name="Copy_path">复制路径</string>
-    <string name="Copy_name">复制昵称</string>
+    <string name="Copy_name">复制文件名</string>
     <string name="Create_symlink">创建符号连接</string>
     <string name="Set_as_wallpaper">设为壁纸</string>
     <string name="Set_as_ringtone">设为铃声</string>
