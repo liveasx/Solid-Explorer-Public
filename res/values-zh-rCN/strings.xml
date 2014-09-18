@@ -778,7 +778,7 @@
     <string name="Clear_filter_history">清除过虑历史</string>
     <string name="Clear_filter_history_summary">删除列表过虑器查询历史</string>
     <string name="New_webdav_connection">WebDav 接连</string>
-    <string name="WebDav_bookmarks">WebDav 书签</string>
+    <string name="WebDav_bookmarks">WebDav书签</string>
 
     <!--  v 1.4.5 -->
     <string name="Domain">域名</string>
