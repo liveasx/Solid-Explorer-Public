@@ -20,8 +20,8 @@
     
     
     <string name="Cannot_browse_to_x">无法浏览 \&quot;%\&quot;，发生未知错误。</string>
-    <string name="Cannot_write_to_the_system">无法写入系统文件，挂载文件系统为读/写时失败。</string>
-    <string name="Requested_file_x_has_not_been_found">请求文件 \&quot;%\&quot; 不存在。</string>
+    <string name="Cannot_write_to_the_system">无法写入系统文件，挂载文件系统为读/写时失败</string>
+    <string name="Requested_file_x_has_not_been_found">请求文件 \&quot;%\&quot; 不存在</string>
     <string name="Unknown_read_write_exception">未知读/写异常</string>
     <string name="Invalid_url_x">无效URL：%</string>
     <string name="An_error_occured_while_accessing_master_password">访问主密码时发生错误</string>
@@ -35,7 +35,7 @@
     <string name="Server_response_x">服务器响应：%x</string>
     <string name="Unable_to_open_the_file_for_reading">无法打开并读取文件</string>
     <string name="Unable_to_write_the_file_to_x">无法写入文件至 \&quot;%x\&quot;</string>
-    <string name="Unable_to_connect_to_the_x">无法连接至 %x.</string>
+    <string name="Unable_to_connect_to_the_x">无法连接至 %x</string>
     <string name="Unknown_error">未知错误</string>
     <string name="Cannot_create_directory_X">无法创建目录 \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">无法在 % 端口上开启服务</string>
@@ -45,9 +45,11 @@
     <string name="Unable_to_mount_the_system_as_read_write">无法挂载系统目录为读/写</string>
     <string name="Unable_to_mount_the_system_as_read_only">无法挂载系统目录为只读</string>
     <string name="Access_denied">访问被拒绝</string>
+	<string name="Unable_to_find_an_activity_to_complete_this_action">无法找到一个活动来完成这个动作</string>
+    <string name="Unable_to_set_the_wallpaper">无法设置壁纸</string>
     
-     <!-- 1.4.3 -->
-    <string name="Unlocker_error">解锁密钥已找到，但是却返回了一个错误信息。这通常是由于另外一个应用程序锁定了它的权限所造成的，比如杀毒软件等。请确保 Solid Explorer 和解锁密钥没有在任何黑名单之中，并重新打开应用重试。</string>
+    <!-- 1.4.3 -->
+    <string name="Unlocker_error">解锁密钥已找到，但是却返回了一个错误信息。这通常是由于另外一个应用程序锁定了它的权限所造成的，比如杀毒软件等。请确保 Solid Explorer 和解锁密钥没有在任何黑名单之中，并重新打开应用重试</string>
     <string name="Unable_to_get_the_link">无法获得连接信息</string>
     
     <!-- 1.5 -->
@@ -57,6 +59,6 @@
     <string name="Unauthorized">认证失败，请重新登陆</string>
     <string name="Resource_not_found">资源未找到</string>
     <string name="Method_not_allowed">该资源不允许使用此种请求方式</string>
-    <string name="Timeout_reached">到达超时</string>
+    <string name="Timeout_reached">请求超时</string>
     
 </resources>
